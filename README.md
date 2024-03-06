@@ -1,5 +1,8 @@
 # Android-Bypass-Root-SSLPin
-For my personal notes
+frida -U -l root-and-ssl-bypass.txt -f "BINARY"
+
+https://pypi.org/project/frida-tools/#history
+https://github.com/frida/frida/releases
 
 # Reference
 https://codeshare.frida.re/@dzonerzy/fridantiroot/
